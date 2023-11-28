@@ -1,4 +1,5 @@
-![snake animation](https://github.com/<seu dhruvkuchhal03>/<seu dhruvkuchhal03>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/dhruvkuchhal03/dhruvkuchhal03/output/snake.svg" alt="Snake animation" align="center" />
+
 ###
 
 <h1 align="center">I'm Dhruv Kuchhal 👋!</h1>

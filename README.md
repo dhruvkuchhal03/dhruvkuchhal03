@@ -1,5 +1,4 @@
-#<img src="https://raw.githubusercontent.com/dhruvkuchhal03/dhruvkuchhal03/output/snake.svg" alt="Snake animation" align="center" />
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 <h1 align="center">I'm Dhruv Kuchhal 👋!</h1>

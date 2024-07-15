@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">a 3rd year undergrad exploring development with machine learning on the side.</h4>
+<h4 align="left">A 4th year undergrad exploring development with machine learning on the side.</h4>
 
 ###
 
